@@ -9,7 +9,7 @@ A simple smooth scrolling website using GSAP ScrollSmoother library for effortle
 - Lightweight and fast performance
 
 ## Demo
-[![Demo Video](video-thumbnail.jpg)](Preview.mp4)
+
 [![Watch Demo](https://img.shields.io/badge/🎬-Play%20Demo-red?style=for-the-badge&logo=youtube)](Preview.mp4)
 
 ## Quick Start
